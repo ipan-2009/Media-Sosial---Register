@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Irfan Dwi Media Sosial</title>
-  <link rel="stylesheet" href="Media Sosial - Register.css">
+  <link rel="stylesheet" href="Media-Register.CSS">
 </head>
 <body>
   <header>
